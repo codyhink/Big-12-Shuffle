@@ -1,0 +1,50 @@
+[
+  {
+  "team": "baylor",
+  "logo": "./img/bu.png"
+  },
+  {
+  "team": "brigham young",
+  "logo": "./img/byu.png"
+  },
+  {
+    "team": "cincinnati",
+    "logo": "./img/cincy.png"
+  },
+  {
+    "team": "iowa state",
+    "logo": "./img/isu.png"
+  },
+  {
+    "team": "kansas state",
+    "logo": "./img/ksu.png"
+  },
+  {
+    "team": "kansas",
+    "logo": "./img/ku.png"
+  },
+  {
+    "team": "oklahoma state",
+    "logo": "./img/osu.png"
+  },
+  {
+    "team": "texas christian",
+    "logo": "./img/tcu.png"
+  },
+  {
+    "team": "texas tech",
+    "logo": "./img/ttu.png"
+  },
+  {
+    "team": "central florida",
+    "logo": "./img/ucf.png"
+  },
+  {
+    "team": "houston",
+    "logo": "./img/uh.png"
+  },
+  {
+    "team": "west virginia",
+    "logo": "./img/wvu.png"
+  }
+]
